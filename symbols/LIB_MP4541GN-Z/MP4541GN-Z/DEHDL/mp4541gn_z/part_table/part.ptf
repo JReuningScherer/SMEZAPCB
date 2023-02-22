@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MP4541GN_Z'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Monolithic Power Systems (MPS)", "MP4541GN-Z" (!) = "", "SOIC127P600X170-9N", "Small Outline Packages", "946-MP4541GN-Z", "https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MP4541GN-Z?qs=TCDPyi3sCW3JrMFxnpK4AA%3D%3D", "Switching Voltage Regulators 80V, 0.8A Synchronous Buck Converter", "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP4541GN/", "1.7 mm"
+END_PART
+
+END.

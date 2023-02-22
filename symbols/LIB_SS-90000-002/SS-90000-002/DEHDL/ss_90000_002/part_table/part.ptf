@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SS_90000_002'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "BelFuse", "SS-90000-002" (!) = "", "SS90000002", "Other", "530-SS-90000-002", "https://www.mouser.co.uk/ProductDetail/Stewart-Connector-Bel/SS-90000-002?qs=QNEnbhJQKval8F6sm0ZXMw%3D%3D", "Modular Connectors / Ethernet Connectors RJ45 Jack, 8P8C unshld horiz flng", "https://www.belfuse.com/resources/drawings/stewartconnector/dr-STW-SS-90000-002.pdf", "16.13 mm"
+END_PART
+
+END.

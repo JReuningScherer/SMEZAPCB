@@ -1,0 +1,16 @@
+.MP4541GN-Z :1 ;Switching Voltage Regulators 80V, 0.8A Synchronous Buck Converter
+SOIC127P600X170-9N
+*STM IC
+*NGS
+*PLB 1="EN" 2="VCC" 3="FREQ" 4="FB" 5="BST" 6="SW" 7="GND" 8="VIN" 9="EP"
+*MXP 9
+*DFN MP4541GN-Z
+~!Mouser Part Number (946-MP4541GN-Z)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MP4541GN-Z?qs=TCDPyi3sCW3JrMFxnpK4AA%3D%3D)
+~!Manufacturer_Name (Monolithic Power Systems (MPS))
+~!Manufacturer_Part_Number (MP4541GN-Z)
+~!Link Datasheet (https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP4541GN/)
+~!Height (1.7mm)
+~!3D_Model (MP4541GN-Z)
+MP4541GN-Z
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

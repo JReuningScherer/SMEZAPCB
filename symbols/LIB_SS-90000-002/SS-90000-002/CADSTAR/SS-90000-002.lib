@@ -1,0 +1,16 @@
+.SS-90000-002 :1 ;Modular Connectors / Ethernet Connectors RJ45 Jack, 8P8C unshld horiz flng
+SS90000002
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8"
+*MXP 10
+*DFN SS-90000-002
+~!Mouser Part Number (530-SS-90000-002)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Stewart-Connector-Bel/SS-90000-002?qs=QNEnbhJQKval8F6sm0ZXMw%3D%3D)
+~!Manufacturer_Name (BelFuse)
+~!Manufacturer_Part_Number (SS-90000-002)
+~!Link Datasheet (https://www.belfuse.com/resources/drawings/stewartconnector/dr-STW-SS-90000-002.pdf)
+~!Height (16.13mm)
+~!3D_Model (SS-90000-002)
+SS-90000-002
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

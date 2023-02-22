@@ -1,6 +1,6 @@
 (sym_lib_table
   (version 7)
-  (lib (name "Transceiver")(type "Legacy")(uri "H:/SeniorDesign/PCB/Footprint-Symbol Files/Footprint-Symbol Files/ADM4852ARZ/eec.lib")(options "")(descr ""))
-  (lib (name "MP4541GN-Z")(type "Legacy")(uri "H:/SeniorDesign/PCB/Footprint-Symbol Files/Footprint-Symbol Files/LIB_MP4541GN-Z/MP4541GN-Z/KiCad/MP4541GN-Z.lib")(options "")(descr ""))
-  (lib (name "SS-90000-002")(type "Legacy")(uri "H:/SeniorDesign/PCB/Footprint-Symbol Files/Footprint-Symbol Files/LIB_SS-90000-002/SS-90000-002/KiCad/SS-90000-002.lib")(options "")(descr ""))
+  (lib (name "Transceiver")(type "Legacy")(uri "H:/SeniorDesign/PCB/VersionControlled/symbols/ADM4852ARZ/eec.lib")(options "")(descr ""))
+  (lib (name "MP4541GN-Z")(type "Legacy")(uri "H:/SeniorDesign/PCB/VersionControlled/symbols/LIB_MP4541GN-Z/MP4541GN-Z/KiCad/MP4541GN-Z.lib")(options "")(descr ""))
+  (lib (name "SS-90000-002")(type "Legacy")(uri "H:/SeniorDesign/PCB/VersionControlled/symbols/LIB_SS-90000-002/SS-90000-002/KiCad/SS-90000-002.lib")(options "")(descr ""))
 )

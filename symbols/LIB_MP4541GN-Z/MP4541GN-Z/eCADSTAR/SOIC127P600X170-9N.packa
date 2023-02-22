@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MP4541GN-Z"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-08-04-09:45:25)
+    (mountForm default
+        (footprintRef "SOIC127P600X170-9N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,50 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Analog Devices ADM4852ARZ
+#
+DEF ADM4852ARZ U 0 40 Y Y 1 L N
+F0 "U" 0 200 50 H V L CNN 
+F1 "ADM4852ARZ" 0 300 50 H V L CNN 
+F2 "Analog_Devices-R-8-01_2007-A-*" 0 400 50 H I L CNN 
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM4850_4851_4852_4853_4854_4855_4856_4857.pdf" 0 500 50 H I L CNN 
+F4 "No" 0 600 50 H I L CNN "automotive"
+F5 "IC" 0 700 50 H I L CNN "category"
+F6 "2.5Mbits/s" 0 800 50 H I L CNN "data rate"
+F7 "Integrated Circuits (ICs)" 0 900 50 H I L CNN "device class L1"
+F8 "Interface ICs" 0 1000 50 H I L CNN "device class L2"
+F9 "RS-232 / RS-422 / RS-485 Interface ICs" 0 1100 50 H I L CNN "device class L3"
+F10 "IC TRANSCEIVER HALF 1/1 8SOIC" 0 1200 50 H I L CNN "digikey description"
+F11 "ADM4852ARZ-ND" 0 1300 50 H I L CNN "digikey part number"
+F12 "1.75mm" 0 1400 50 H I L CNN "height"
+F13 "RS-485,RS-422" 0 1500 50 H I L CNN "interface"
+F14 "Yes" 0 1600 50 H I L CNN "lead free"
+F15 "ac5efacbf2b1cfdf" 0 1700 50 H I L CNN "library id"
+F16 "Analog Devices" 0 1800 50 H I L CNN "manufacturer"
+F17 "5.25V" 0 1900 50 H I L CNN "max supply voltage"
+F18 "4.75V" 0 2000 50 H I L CNN "min supply voltage"
+F19 "Single Transmitter/Receiver RS-422/RS-485 8-Pin SOIC N Tube" 0 2100 50 H I L CNN "mouser description"
+F20 "584-ADM4852ARZ" 0 2200 50 H I L CNN "mouser part number"
+F21 "250-320uA" 0 2300 50 H I L CNN "nominal supply current"
+F22 "1" 0 2400 50 H I L CNN "number of receivers"
+F23 "1" 0 2500 50 H I L CNN "number of transmitters"
+F24 "SOIC8" 0 2600 50 H I L CNN "package"
+F25 "Yes" 0 2700 50 H I L CNN "rohs"
+F26 "Half-Duplex" 0 2800 50 H I L CNN "simplex duplex"
+F27 "0.1mm" 0 2900 50 H I L CNN "standoff height"
+F28 "+85°C" 0 3000 50 H I L CNN "temperature range high"
+F29 "-40°C" 0 3100 50 H I L CNN "temperature range low"
+DRAW
+X VCC 8 100 0 100 R 40 40 1 1 W 
+X ~RE~ 2 100 -300 100 R 40 40 1 1 I 
+X A 6 1200 0 100 L 40 40 1 1 B 
+X B 7 1200 -100 100 L 40 40 1 1 B 
+X DE 3 100 -400 100 R 40 40 1 1 I 
+X DI 4 100 -500 100 R 40 40 1 1 I 
+X RO 1 100 -200 100 R 40 40 1 1 O 
+X GND 5 1200 -500 100 L 40 40 1 1 W 
+S 200 100 1100 -600 1 1 0 f
+ENDDRAW
+ENDDEF
+#
+# End Library
