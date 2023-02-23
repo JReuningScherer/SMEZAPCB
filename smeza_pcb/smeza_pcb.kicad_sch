@@ -2628,7 +2628,7 @@
     (pin "2" (uuid f1d89821-e378-4e07-b513-5d252c953380))
     (pin "3" (uuid 1143007a-87d3-4dd5-a615-0182f0c01989))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "U1") (unit 1)
         )
@@ -2659,7 +2659,7 @@
     (pin "1" (uuid 6c40bac8-b711-4610-b84f-45e0638b2025))
     (pin "2" (uuid ac4007db-1689-4b5b-bddc-0476070636df))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R13") (unit 1)
         )
@@ -2690,7 +2690,7 @@
     (pin "1" (uuid 0efbc305-5943-4319-96fa-d88312ec3f4a))
     (pin "2" (uuid 373671a9-d2dd-4447-832e-6ebcdf966f2a))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R2") (unit 1)
         )
@@ -2722,7 +2722,7 @@
     (pin "2" (uuid be8ae16a-27ed-406e-99ee-75ea20767f22))
     (pin "3" (uuid eb44aa54-9921-4535-9f80-1536ecd1008a))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "J8") (unit 1)
         )
@@ -2747,7 +2747,7 @@
     )
     (pin "1" (uuid ee0a8f41-d144-416c-9e0f-965db6391c80))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "#PWR011") (unit 1)
         )
@@ -2773,7 +2773,7 @@
     (pin "1" (uuid d92ba278-72dd-42d6-8633-a82fffee0dd3))
     (pin "2" (uuid ca2640ec-1f55-4941-9ecc-a4d23c94e007))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R18") (unit 1)
         )
@@ -2804,7 +2804,7 @@
     (pin "1" (uuid 61e46f05-b6b5-40fd-b679-79e6e43a15d4))
     (pin "2" (uuid 2479211f-aae5-4715-bfcd-f5821f484c4f))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "C5") (unit 1)
         )
@@ -2834,7 +2834,7 @@
     )
     (pin "1" (uuid 74643808-31b6-4a21-824b-45232aede2d9))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "#PWR013") (unit 1)
         )
@@ -2860,7 +2860,7 @@
     (pin "1" (uuid e7038c44-59ec-4b63-aec0-c91472ef3be2))
     (pin "2" (uuid f1daf780-1848-41c5-876f-300ca1e11005))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R21") (unit 1)
         )
@@ -2890,7 +2890,7 @@
     )
     (pin "1" (uuid 5ddbcfb8-2897-4658-bd21-f847d8acf1be))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "#PWR012") (unit 1)
         )
@@ -2922,7 +2922,7 @@
     (pin "7" (uuid 9dc5b2a5-af5e-42fe-a604-169d3482bf0f))
     (pin "8" (uuid 86e47292-d7e4-475a-9683-a9a1722f0745))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "SW1") (unit 1)
         )
@@ -2952,7 +2952,7 @@
     )
     (pin "1" (uuid 02a1bf6f-b2e5-487e-8fab-4a161ac159c6))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "#PWR01") (unit 1)
         )
@@ -2978,7 +2978,7 @@
     (pin "1" (uuid 62ec173b-ed13-40c6-9e1b-065071c0a468))
     (pin "2" (uuid 3f1c88ff-ae29-496c-9948-77b4f9909a83))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "C4") (unit 1)
         )
@@ -3011,7 +3011,7 @@
     (pin "3" (uuid 5005b301-e416-430b-8959-2abbca1a7426))
     (pin "4" (uuid 51cd29b8-086c-452a-b0d6-14c3847e6950))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "J4") (unit 1)
         )
@@ -3037,7 +3037,7 @@
     (pin "1" (uuid 95e70712-3ace-4622-a77a-de3d20d7e693))
     (pin "2" (uuid f5e18155-5bf4-4a65-9751-34fe5ae0c2eb))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R3") (unit 1)
         )
@@ -3068,7 +3068,7 @@
     (pin "1" (uuid d482c7e6-6548-4b1e-8674-a312a9fd0530))
     (pin "2" (uuid ff94d5ac-7b1e-4de8-b7b2-566ff45da7fa))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R19") (unit 1)
         )
@@ -3090,7 +3090,7 @@
     (property "Value" "MP4541GN-Z" (at 102.87 184.15 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SOIC127P600X170-9N" (at 91.44 185.42 0)
+    (property "Footprint" "Footprints:SOIC127P600X170-9N" (at 91.44 185.42 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP4541GN/" (at 91.44 187.96 0)
@@ -3124,7 +3124,7 @@
     (pin "8" (uuid c861fabb-f33b-448e-afb9-8055180e28ae))
     (pin "9" (uuid efac31d9-1e76-47a6-bc1e-1a92518ccd95))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "B1") (unit 1)
         )
@@ -3154,7 +3154,7 @@
     )
     (pin "1" (uuid f4c6b975-62ae-46d8-83cb-deeaa90b166c))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "#PWR04") (unit 1)
         )
@@ -3180,7 +3180,7 @@
     (pin "1" (uuid 0b794f55-eed6-4207-9f5b-ce0737a5fde6))
     (pin "2" (uuid 16ff9e53-d182-4f6b-904e-53ed1299a7eb))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "C2A1") (unit 1)
         )
@@ -3212,7 +3212,7 @@
     (pin "2" (uuid 434c816e-4a5a-46b2-89c3-f194f453fd0e))
     (pin "3" (uuid fb558b34-508c-44f3-bb78-e738faf488ea))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "J3") (unit 1)
         )
@@ -3238,7 +3238,7 @@
     (pin "1" (uuid 455d2252-4b65-4d36-ab53-49bf45a60879))
     (pin "2" (uuid 1487a9d1-bccd-4119-928a-83617b441d5e))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R22") (unit 1)
         )
@@ -3268,7 +3268,7 @@
     )
     (pin "1" (uuid 4d975b65-b04d-4f87-bdc9-f6263888734a))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "#PWR03") (unit 1)
         )
@@ -3293,7 +3293,7 @@
     )
     (pin "1" (uuid e3d7d268-45af-45c1-940f-3b4ba4602c04))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "#PWR07") (unit 1)
         )
@@ -3319,7 +3319,7 @@
     (pin "1" (uuid a42b8fd7-49e1-4f26-a0ee-f3ac4e3ede11))
     (pin "2" (uuid c0670bbd-0a5f-4d37-8448-1f02e8645772))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "C7") (unit 1)
         )
@@ -3356,7 +3356,7 @@
     (pin "7" (uuid f19570cc-e599-4a9a-9ac7-db71b77e63ba))
     (pin "8" (uuid fcace2f0-8529-4347-a687-11b6cb0e529a))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "SW2") (unit 1)
         )
@@ -3386,7 +3386,7 @@
     )
     (pin "1" (uuid 81b8ebd6-0ed8-42da-9e36-c4cd7690dea4))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "#PWR09") (unit 1)
         )
@@ -3442,7 +3442,7 @@
     (pin "8" (uuid 310662d1-d4b7-40ad-9ae3-a39cbfd6568b))
     (pin "9" (uuid d543e847-c801-461f-868c-0dc649c9d258))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "U2") (unit 1)
         )
@@ -3469,7 +3469,7 @@
     (pin "2" (uuid e837798d-e79d-422e-ab07-7730d16c2a6a))
     (pin "3" (uuid 872d8aac-12f7-4fd3-b5b0-1a6873932855))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "J5") (unit 1)
         )
@@ -3495,7 +3495,7 @@
     (pin "1" (uuid ad7b74fa-7d1f-4d93-8bdb-490aae51cc5e))
     (pin "2" (uuid 6110e100-216c-4032-89a3-ae6872600bb0))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "C1") (unit 1)
         )
@@ -3526,7 +3526,7 @@
     (pin "1" (uuid 72e52512-1ddc-4544-8938-b3435aa338bb))
     (pin "2" (uuid 75f8ded4-8a66-47a3-ba01-f045c8190c70))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "D1") (unit 1)
         )
@@ -3557,7 +3557,7 @@
     (pin "1" (uuid 9f130540-a794-45ab-a94a-6928debabb75))
     (pin "2" (uuid 858fdf8c-d0df-4b98-b37a-e39fe99dafe5))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R15") (unit 1)
         )
@@ -3587,7 +3587,7 @@
     )
     (pin "1" (uuid 662f56f6-4ecd-4000-a383-4d1cd09612ea))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "#PWR010") (unit 1)
         )
@@ -3613,7 +3613,7 @@
     (pin "1" (uuid 0c2f8b60-c084-41f1-b794-77ba4bf7af05))
     (pin "2" (uuid c91fa248-d5a4-4769-8e1e-df7d15fdde99))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R12") (unit 1)
         )
@@ -3643,7 +3643,7 @@
     )
     (pin "1" (uuid d7932943-6d17-4e4b-a2cc-b8279d7e493c))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "#PWR02") (unit 1)
         )
@@ -3669,7 +3669,7 @@
     (pin "1" (uuid b727faf9-ca19-466e-967d-eeca543d7ee4))
     (pin "2" (uuid a4de814a-7bff-447b-b448-0807c1bfa24e))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "C2B1") (unit 1)
         )
@@ -3700,7 +3700,7 @@
     (pin "1" (uuid 006812e7-7141-4b67-9f65-c0fec1c46e17))
     (pin "2" (uuid c50adc88-ce37-4749-b7d6-67df566980cc))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R8") (unit 1)
         )
@@ -3730,7 +3730,7 @@
     )
     (pin "1" (uuid dcff26de-f846-4353-a48c-f75a193b7588))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "#PWR08") (unit 1)
         )
@@ -3756,7 +3756,7 @@
     (pin "1" (uuid 5abd5a98-b551-4fe1-bce3-e7c7813a7c72))
     (pin "2" (uuid 793d9494-b289-4594-89df-bda643eede15))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R17") (unit 1)
         )
@@ -3786,7 +3786,7 @@
     )
     (pin "1" (uuid d8212adf-73be-4b7b-9689-e9e810e3054f))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "#PWR06") (unit 1)
         )
@@ -3812,7 +3812,7 @@
     (pin "1" (uuid 5c46d399-af6c-46a6-95c9-97c7336ff489))
     (pin "2" (uuid 4b003e78-5584-40ef-ac41-cb22a2857a6a))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "C6") (unit 1)
         )
@@ -3843,7 +3843,7 @@
     (pin "1" (uuid 8a98e4d5-1b81-4b47-bb99-8c33313fa553))
     (pin "2" (uuid 28201094-b485-4ad9-8506-848810a1e82a))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "C2") (unit 1)
         )
@@ -3875,7 +3875,7 @@
     (pin "2" (uuid 8d2518a1-61a5-4980-b406-7fad9d7509f1))
     (pin "3" (uuid f66bf602-fa48-47e1-a9fa-a6bbda99c480))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "J6") (unit 1)
         )
@@ -3901,7 +3901,7 @@
     (pin "1" (uuid 68ebeea4-4c18-43f2-ab7b-41d09740fd58))
     (pin "2" (uuid 07a65bda-d095-4781-839f-4563c0b39fc1))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R1") (unit 1)
         )
@@ -3932,7 +3932,7 @@
     (pin "1" (uuid cfd0e15f-5564-4cd5-960f-4a37616476c1))
     (pin "2" (uuid a2dfdbbf-5f2e-47ab-b840-da7babf4d50a))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R16") (unit 1)
         )
@@ -3954,7 +3954,7 @@
     (property "Value" "ADM4852ARZ" (at 474.98 336.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "ADM4852ARZ:ADM4852ARZ" (at 458.47 331.47 0)
+    (property "Footprint" "Footprints:ADM4852ARZ" (at 458.47 331.47 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM4850_4851_4852_4853_4854_4855_4856_4857.pdf" (at 458.47 328.93 0)
@@ -4047,7 +4047,7 @@
     (pin "7" (uuid a2a2231b-9631-4138-bb25-14f4283dbe23))
     (pin "8" (uuid 69f3065b-9c1a-4e5a-82f2-5f3a961e96d2))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "T1") (unit 1)
         )
@@ -4078,7 +4078,7 @@
     (pin "1" (uuid cf21ab6e-37e0-466a-817d-4bfbc3f5c1ea))
     (pin "2" (uuid e2b07164-6668-40e9-9427-53bfd5f1b562))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R6") (unit 1)
         )
@@ -4108,7 +4108,7 @@
     )
     (pin "1" (uuid a6ba09b0-6af5-4d3d-a40e-c3cab15b488b))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "#PWR05") (unit 1)
         )
@@ -4134,7 +4134,7 @@
     (pin "1" (uuid e5515410-00ff-4ecf-bf94-9797da0ed942))
     (pin "2" (uuid dbe5f0b8-4f9b-46bc-b32e-74f0b2eb9d5b))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R5") (unit 1)
         )
@@ -4169,7 +4169,7 @@
     (pin "5" (uuid aa16c5cc-eedc-4642-a3d8-553973890a1d))
     (pin "6" (uuid 6dd82ee8-841b-4e35-8f54-51abe969b953))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "J9") (unit 1)
         )
@@ -4195,7 +4195,7 @@
     (pin "1" (uuid 5d56847f-c244-498c-83a5-69d08bbd6e8b))
     (pin "2" (uuid 563c63ef-5817-46f8-8a68-4892b67336e4))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R9") (unit 1)
         )
@@ -4217,7 +4217,7 @@
     (property "Value" "SS-90000-002" (at 66.04 29.21 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SS-90000-002:SS90000002" (at 72.39 31.75 0)
+    (property "Footprint" "Footprints:SS90000002" (at 72.39 31.75 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.belfuse.com/resources/drawings/stewartconnector/dr-STW-SS-90000-002.pdf" (at 72.39 34.29 0)
@@ -4241,6 +4241,9 @@
     (property "Manufacturer_Part_Number" "SS-90000-002" (at 72.39 49.53 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
+    (property "Sim.Enable" "0" (at 55.88 34.29 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid c9867303-e3b6-4201-a779-fcf59271bb4a))
     (pin "2" (uuid bb09561f-c800-489c-ade5-329f8c6367d5))
     (pin "3" (uuid ab8148d9-db55-4d09-94fd-71534e3d38f7))
@@ -4250,7 +4253,7 @@
     (pin "7" (uuid 81da9bc1-fde7-475c-8d44-1d60945ead5d))
     (pin "8" (uuid 389fd824-30ac-4340-bc1d-af3174cac89b))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "J1") (unit 1)
         )
@@ -4305,7 +4308,7 @@
     (pin "7" (uuid 0967e8b6-5185-4697-8d37-c7591336a00c))
     (pin "8" (uuid 257979c1-51fa-4b43-8d7c-a8550a6213ae))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "J2") (unit 1)
         )
@@ -4327,7 +4330,7 @@
     (property "Value" "H_Bridge" (at 381 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "H-bridge:SOIC100P600X175-10N" (at 375.92 68.58 0)
+    (property "Footprint" "Footprints:SOIC100P600X175-10N" (at 375.92 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 375.92 68.58 0)
@@ -4344,7 +4347,7 @@
     (pin "8" (uuid 111fb334-2364-43cb-9c12-3ef0019ba9ff))
     (pin "9" (uuid 22b4f176-842a-413a-941c-936cbbfddf38))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "H1") (unit 1)
         )
@@ -4376,7 +4379,7 @@
     (pin "2" (uuid d5f51643-a153-41d2-be3b-c4664778df7a))
     (pin "3" (uuid bccaaa70-8df6-4963-990e-b583364bedd0))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "J7") (unit 1)
         )
@@ -4402,7 +4405,7 @@
     (pin "1" (uuid f0e1e27f-be8b-4d9e-9324-4872bf6982e0))
     (pin "2" (uuid 731e200f-42d0-4ef9-be55-6e75422a4569))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "L1") (unit 1)
         )
@@ -4433,7 +4436,7 @@
     (pin "1" (uuid 33ebcf39-ce2b-4e87-8eef-343642be0700))
     (pin "2" (uuid 11837a7b-69b8-4cb1-8e45-54637aabef21))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R14") (unit 1)
         )
@@ -4464,7 +4467,7 @@
     (pin "1" (uuid 49fc91df-f56b-44d8-879d-25c754ca456e))
     (pin "2" (uuid ddfffd18-5831-44d1-983f-76bed0ad900e))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R4") (unit 1)
         )
@@ -4495,7 +4498,7 @@
     (pin "1" (uuid ceaaba04-87ec-4200-ba7e-f94ffc9551c8))
     (pin "2" (uuid 18006c72-9148-4b14-bd68-3ad292c9b06a))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "C3") (unit 1)
         )
@@ -4526,7 +4529,7 @@
     (pin "1" (uuid a8181e32-3db2-4ff0-b59e-f6d1537c6ffc))
     (pin "2" (uuid c834f49a-ced2-4189-8427-a4a84673c0e9))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R10") (unit 1)
         )
@@ -4557,7 +4560,7 @@
     (pin "1" (uuid 9d6a7561-28da-4359-8730-0a6eed584a4a))
     (pin "2" (uuid 1783fa9b-7a3a-4fa0-b2b4-43283a4994a6))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "SW3") (unit 1)
         )
@@ -4588,7 +4591,7 @@
     (pin "1" (uuid 7af830c1-35e7-48db-9c82-8974478042e1))
     (pin "2" (uuid 5c256426-e62d-4686-8411-cb9f519c692c))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R7") (unit 1)
         )
@@ -4619,7 +4622,7 @@
     (pin "1" (uuid 269df578-4f2c-4f90-8d1b-29063e4266e1))
     (pin "2" (uuid 3e7d2cdc-d784-431c-a293-85a9acb5992e))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R20") (unit 1)
         )
@@ -4650,7 +4653,7 @@
     (pin "1" (uuid 8a0d5924-e8f2-4aa5-9a44-efb1c2211329))
     (pin "2" (uuid 1f5c7cde-22c7-4faf-aa34-8d43604d09fc))
     (instances
-      (project "smeza_pcb_v3"
+      (project "smeza_pcb"
         (path "/1ef04636-864a-450c-a1c9-a90d96ab8944"
           (reference "R11") (unit 1)
         )
