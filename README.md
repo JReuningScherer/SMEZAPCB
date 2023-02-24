@@ -27,3 +27,5 @@ Please don't commit directly to main; make a branch for your changes and then wh
 When possible, it is preferred that you obtain this repo by cloning it. However, since most Valpo machines do not have git it may be necessary to download the files and then try to merge after the fact. This is another good time to use a branch incase things get messed up. It should be noted that the 4-machines in the team solar senior design space have git installed - just make sure to use the git-bash terminal. 
 
 While the KiCad files are technically text files, because of the large scale of changes made by even small changes, best practice is probably to clobber everything in `main` with the contents of the newer branch. 
+
+If you have questions about using git, talk to Joel. 
