@@ -1,0 +1,20 @@
+.A3909GLNTR-T :1 ;Low Voltage Dual Full-Bridge Motor Driver
+SOP100P600X175-10N
+*STM IC
+*NGS
+*PLB 1="IN1" 2="IN2" 3="VBB" 4="IN3" 5="IN4" 6="OUT4" 7="OUT3" 8="GND" 9="OUT2" 10="OUT1"
+*MXP 10
+*DFN A3909GLNTR-T
+~!Manufacturer_Name (Allegro Microsystems)
+~!Manufacturer_Part_Number (A3909GLNTR-T)
+~!Mouser Part Number (250-A3909GLNTR-T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A3909GLNTR-T?qs=pUKx8fyJudC%252BMGD7t6mLWQ%3D%3D)
+~!Arrow Part Number (A3909GLNTR-T)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/a3909glntr-t/allegro-microsystems?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://www.allegromicro.com/~/media/files/datasheets/a3909-datasheet.pdf)
+~!Height (1.75mm)
+~!3D_Model (A3909GLNTR-T)
+A3909GLNTR-T
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 10.1!U 9.1!U 8.1!U 7.1!U 6.1!U 

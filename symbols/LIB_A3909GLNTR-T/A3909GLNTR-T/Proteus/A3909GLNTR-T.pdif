@@ -1,0 +1,160 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "A3909GLNTR-T"
+   (description "Low Voltage Dual Full-Bridge Motor Driver")
+   (family "ANA")
+   (package "SOP100P600X175-10N")
+   (attribute "Datasheet Link" "http://www.allegromicro.com/~/media/files/datasheets/a3909-datasheet.pdf")
+   (attribute "Geometry.Height" "1.75mm")
+   (attribute "Manufacturer_Name" "Allegro Microsystems")
+   (attribute "Manufacturer_Part_Number" "A3909GLNTR-T")
+   (attribute "Mouser Part Number" "250-A3909GLNTR-T")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A3909GLNTR-T?qs=pUKx8fyJudC%252BMGD7t6mLWQ%3D%3D")
+   (attribute "Arrow Part Number" "A3909GLNTR-T")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/a3909glntr-t/allegro-microsystems?region=nac")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "A3909GLNTR-T")
+    (pin "IN1" 1 PS)
+    (pin "IN2" 2 PS)
+    (pin "VBB" 3 PS)
+    (pin "IN3" 4 PS)
+    (pin "IN4" 5 PS)
+    (pin "OUT1" 10 PS)
+    (pin "OUT2" 9 PS)
+    (pin "GND" 8 PS)
+    (pin "OUT3" 7 PS)
+    (pin "OUT4" 6 PS)
+   )
+  )
+  (symbol "A3909GLNTR-T"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -500) (pt 200 -500) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOP100P600X175-10N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -3.725 2.8)
+      (pt 3.725 2.8)
+      (pt 3.725 -2.8)
+      (pt -3.725 -2.8)
+      (pt -3.725 2.8))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.95 2.45)
+      (pt 1.95 2.45)
+      (pt 1.95 -2.45)
+      (pt -1.95 -2.45)
+      (pt -1.95 2.45))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.95 1.45)
+      (pt -0.95 2.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.6 2.45)
+      (pt 1.6 2.45)
+      (pt 1.6 -2.45)
+      (pt -1.6 -2.45)
+      (pt -1.6 2.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.475 2.675)
+      (pt -1.95 2.675))))
+   (leg 1 (pt -2.712 2) (padstack 0))
+   (leg 2 (pt -2.712 1) (padstack 0))
+   (leg 3 (pt -2.712 0) (padstack 0))
+   (leg 4 (pt -2.712 -1) (padstack 0))
+   (leg 5 (pt -2.712 -2) (padstack 0))
+   (leg 6 (pt 2.712 -2) (padstack 0))
+   (leg 7 (pt 2.712 -1) (padstack 0))
+   (leg 8 (pt 2.712 0) (padstack 0))
+   (leg 9 (pt 2.712 1) (padstack 0))
+   (leg 10 (pt 2.712 2) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.65 1.525 0 0 0))
+   )
+   (model "A3909GLNTR-T.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

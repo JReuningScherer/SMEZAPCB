@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "A3909GLNTR-T"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-05-27-09:06:55)
+    (mountForm default
+        (footprintRef "SOP100P600X175-10N")
+        (spec "System")
+    )
+)
