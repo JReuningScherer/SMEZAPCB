@@ -4423,7 +4423,7 @@
   (gr_text "Power \nSource\nSelect" (at 136.906 98.044) (layer "F.SilkS") (tstamp a53da158-0926-41be-849b-dfb734afc67c)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "SMEZA V0.2" (at 107.696 116.84 90) (layer "F.SilkS") (tstamp cd3e33ec-e843-49aa-a2ac-2af8bd8a1ad9)
+  (gr_text "SMEZA V0.3" (at 107.696 116.84 90) (layer "F.SilkS") (tstamp cd3e33ec-e843-49aa-a2ac-2af8bd8a1ad9)
     (effects (font (size 2 2) (thickness 0.3)) (justify left bottom))
   )
   (gr_text "-X\n" (at 157.988 66.04 90) (layer "F.SilkS") (tstamp f1a78305-84a3-47d3-baeb-9c45f6f0607c)
