@@ -1,0 +1,9 @@
+Manufacturer=Allegro Microsystems
+PartNumber=A3909GLNTR-T
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=10
+Version=9.1
+Released=2022-02-06 09:37:33
+Downloaded=2022-12-14 18:20:51
+3D=Y

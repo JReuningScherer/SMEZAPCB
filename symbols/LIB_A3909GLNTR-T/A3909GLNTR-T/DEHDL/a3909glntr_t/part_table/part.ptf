@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'A3909GLNTR_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Allegro Microsystems", "A3909GLNTR-T" (!) = "", "SOP100P600X175-10N", "Small Outline Packages", "250-A3909GLNTR-T", "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/A3909GLNTR-T?qs=pUKx8fyJudC%252BMGD7t6mLWQ%3D%3D", "A3909GLNTR-T", "https://www.arrow.com/en/products/a3909glntr-t/allegro-microsystems?region=nac", "", "", "Low Voltage Dual Full-Bridge Motor Driver", "http://www.allegromicro.com/~/media/files/datasheets/a3909-datasheet.pdf", "1.75 mm"
+END_PART
+
+END.

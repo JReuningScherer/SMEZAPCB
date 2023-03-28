@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A3909GLNTR-T
+D Low Voltage Dual Full-Bridge Motor Driver
+K
+F http://www.allegromicro.com/~/media/files/datasheets/a3909-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
